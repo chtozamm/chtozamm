@@ -8,6 +8,8 @@ My primary weapon of choice is **Go**, but I also work with **JavaScript (TypeSc
 
 I've developed a range of projects, including web servers and applications, CLI tools, and games.
 
+---
+
 *Feel free to contact me if you're interested in collaborating!*
 
 
