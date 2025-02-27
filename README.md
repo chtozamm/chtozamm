@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**chtozamm/chtozamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> All that is gold does not glitter,  
+> Not all those who wander are lost;  
+> The old that is strong does not wither,  
+> Deep roots are not reached by the frost.  
+>  
+> From the ashes a fire shall be woken,
+> A light from the shadows shall spring;  
+> Renewed shall be blade that was broken:  
+> The crownless again shall be king.  
+>  
+> — J.R.R. Tolkien, "The Lord of the Rings: The Fellowship of the Ring"
